@@ -1,12 +1,20 @@
 # Hey Everyone, I am Vedansh
 <a>Good Better Best <br> Never Take Rest <br> Till Good Becomes Better <br> And Better Becomes Best</a>
+<br>
+<img  height="400px" width="90%" src="img/h3.jpg" />
+<br>
+<br>
+
+
 
 # My Git Hub Stats
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=vedanshtandon&show_icons=true&theme=radical" />
+<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=vedanshtandon&show_icons=true&theme=radical" />
+
 
 # Most Common Languages Used
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedanshtandon&langs_count=8&layout=compact" />
+<img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedanshtandon&langs_count=8&layout=compact" />
 <br>
+
 
 
 # 📋 Programming Languages 
@@ -19,6 +27,12 @@
 <img align="left"  src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <br>
 <br>
+<br>
+
+
+#
+
+
 
 # 🤴 Developer/Forums
 <img align="left"  src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
@@ -26,6 +40,12 @@
 <img align="left"  src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
 <br>
 <br>
+<br>
+
+
+#
+
+
 
 # 📚 Frameworks, Platforms Librariesand IDEs
 <img align="left"  src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -35,11 +55,20 @@
 <img align="left"  src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
 <br>
 <br>
+<br>
+
+
+#
+
+<br>
 
 # 🎈 Hosting
 <img align="left"  src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
 <img align="left"  src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
 <br>
+<br>
+
+#
 <br>
 
 # Open Source
